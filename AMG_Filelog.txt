@@ -1,0 +1,11 @@
+/Site
+Home.aspx: Updated with 3 videos
+Home_copy(1).aspx : made a copy in 2010 SharePoint Designer. The list data references are messed up. Web parts exist.
+Home_copy(2).aspx : made a copy in 2013 SharePoint Designer. The list data references are messed up. Web parts exist.
+
+
+/Dev SubSite
+dev_Home.aspx
+dev_Home_01.aspx : Sample doodles (bottons others, etc) made in 2010. Page did not open online in SharePoint. Format incomppatibility
+dev_Home_02.aspx : Troubleshooting sample code.
+
